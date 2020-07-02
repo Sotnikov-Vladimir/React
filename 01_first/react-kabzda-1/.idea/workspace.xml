@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="115ff82a-5094-4d44-9e09-60c9b735ff20" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZWilh3GT2Og1BRHC3xpVl5k4N5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/сonponents/Dialogs/Message" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Владимир\All\React\01_first\react-kabzda-1\src\сonponents\Profile" />
+      <recent name="C:\Users\Владимир\All\React\01_first\react-kabzda-1\src\сonponents\Navbar" />
+      <recent name="C:\Users\Владимир\All\React\01_first\react-kabzda-1\src\сonponents\Header" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Владимир\All\React\01_first\react-kabzda-1\src\сonponents\Dialogs\Message" />
+      <recent name="C:\Users\Владимир\All\React\01_first\react-kabzda-1\src\сonponents\Dialogs\DialogItem" />
+      <recent name="C:\Users\Владимир\All\React\01_first\react-kabzda-1\src\сonponents\Profile\ProfileInfo" />
+      <recent name="C:\Users\Владимир\All\React\01_first\react-kabzda-1\src\сonponents\Settings" />
+      <recent name="C:\Users\Владимир\All\React\01_first\react-kabzda-1\src\сonponents\News" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="115ff82a-5094-4d44-9e09-60c9b735ff20" name="Default Changelist" comment="" />
+      <created>1584961404043</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584961404043</updated>
+      <workItem from="1584961409218" duration="3988000" />
+      <workItem from="1585077267638" duration="7115000" />
+      <workItem from="1585143197662" duration="5360000" />
+      <workItem from="1585313530771" duration="17467000" />
+      <workItem from="1585501695950" duration="3789000" />
+      <workItem from="1585585694423" duration="2893000" />
+      <workItem from="1585602683434" duration="2798000" />
+      <workItem from="1585659678331" duration="7137000" />
+      <workItem from="1585688273125" duration="2159000" />
+      <workItem from="1585738323591" duration="2641000" />
+      <workItem from="1586007484042" duration="4744000" />
+      <workItem from="1586949714257" duration="12377000" />
+      <workItem from="1589294739805" duration="1270000" />
+      <workItem from="1590255079007" duration="603000" />
+      <workItem from="1590309578632" duration="27000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="371" y="107" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1586949860024">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="371" y="107" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.720@0.0.1280.720" timestamp="1586949860024" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/сonponents/Dialogs/Dialogs.jsx</url>
+          <line>34</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/сonponents/Profile/ProfileInfo/ProfileInfo.jsx</url>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/сonponents/Dialogs/DialogItem/DialogItem.jsx</url>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

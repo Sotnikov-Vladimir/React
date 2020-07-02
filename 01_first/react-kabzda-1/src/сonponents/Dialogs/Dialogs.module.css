@@ -1,0 +1,46 @@
+.dialogs{
+    display: grid;
+    grid-template-columns: 3fr 10fr;
+}
+
+.dialogs__item a{
+    text-decoration: none;
+    color: black;
+}
+
+.dialogs__item .active{
+    color: green;
+}
+
+.dialog{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+    border-bottom: 2px solid #f0f0f0;
+    border-top: 2px solid #f0f0f0;
+}
+
+.messages{
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    border-bottom: 2px solid #f0f0f0;
+    border-top: 2px solid #f0f0f0;
+    border-left: 2px solid #f0f0f0;
+
+}
+
+.message{
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.input{
+    margin-top: 55px;
+}
+
+.textarea{
+    width: 400px;
+    margin-right: 50px;
+    margin-left: 70px;
+}
